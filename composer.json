@@ -30,7 +30,7 @@
         "psr/http-server-handler": "^1.0",
         "psr/http-server-middleware": "^1.0",
         "ellipse/dispatcher": "^1.6",
-        "ellipse/handlers-adr": "^0.1"
+        "ellipse/handlers-adr": "^1.0"
     },
     "require-dev": {
         "kahlan/kahlan": "^4.0",

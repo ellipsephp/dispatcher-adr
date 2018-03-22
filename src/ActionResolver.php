@@ -8,9 +8,9 @@ use Psr\Http\Server\RequestHandlerInterface;
 
 use Ellipse\Dispatcher;
 use Ellipse\DispatcherFactoryInterface;
+use Ellipse\ADR\DomainInterface;
+use Ellipse\Handlers\ResponderInterface;
 use Ellipse\Handlers\ActionRequestHandler;
-use Ellipse\Handlers\ADR\DomainInterface;
-use Ellipse\Handlers\ADR\ResponderInterface;
 
 class ActionResolver implements DispatcherFactoryInterface
 {
