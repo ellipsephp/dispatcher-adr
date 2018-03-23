@@ -1,7 +1,7 @@
 {
     "name": "ellipse/dispatcher-adr",
     "type": "library",
-    "description": "Psr-15 middleware dispatcher factory resolving ADR definitions from Psr-11 container",
+    "description": "Psr-15 middleware dispatcher factory resolving ADR definitions",
     "keywords": [
         "Psr-15",
         "Psr-11",
